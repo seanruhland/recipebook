@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/seanruhland/recipebook/issues"
   },
-  "homepage": "https://github.com/seanruhland/recipebook#readme"
+  "homepage": "https://github.com/seanruhland/recipebook#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9",
+    "nodemon": "^1.17.1"
+  }
 }
