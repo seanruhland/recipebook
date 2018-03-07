@@ -1,0 +1,19 @@
+{
+  "name": "coding-projects",
+  "version": "1.0.0",
+  "description": "an App to make shopping lists and keep track of recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanruhland/recipebook.git"
+  },
+  "author": "Sean Ruhland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanruhland/recipebook/issues"
+  },
+  "homepage": "https://github.com/seanruhland/recipebook#readme"
+}
