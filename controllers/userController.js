@@ -9,14 +9,13 @@ exports.getUsers = function(req,res){
 		
 		//respond with users
 			res.json(users)
-		
 	}) 
 }
 
 exports.createUser = function(req, res) {
 	//create  a new instance of your use
 	var user = new User({
-		email: 'SR@gmail.com',
+		Name: 'SR@gmail.com',
 		password: 'mypassword',
 		username: "seanruhland24"
 	})

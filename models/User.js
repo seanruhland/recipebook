@@ -8,7 +8,8 @@ var Schema = mongoose.Schema
 //define the datatypes it'll accept
 var userSchema = new Schema({
 	email: String,
-	password: String
+	password: String,
+	username: String,
 })
 
 //export the model, which we can reference as User
